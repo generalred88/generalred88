@@ -1,4 +1,13 @@
-## Hi there 👋
+## Živijo! (Hi there on Slovenian)👋 
+### My name is Gregor Hodinj and this is my try to get inside more technical stuff
+
+🔭 I’m currently working on my personal Technical Designer projects as I try to find the right place in game development. Why *the right place*? Because I’ve worked in game development for 12 years (and still do), but my journey has taken several turns.
+
+I started as a 3D modeler and Animator at Eipix Entertainment, a company known for HOPA (Hidden Object Puzzle Adventure) games. Over seven years, I built my career there, progressing from 3D modeler to Head of the Cinematic Department. However, when the company was sold to Playrix, our cinematic team was merged into the animation department, and I worked there for two months as a Technical Animator.
+
+Wanting to transition into VFX, I then joined Bunker VFX as an Associate Producer. This marked a major crossroads in my career, as I stayed on the production track for the next four years. My biggest achievements during this time included contracts with Warner Bros. and Activision, where I worked as a Project Manager.
+
+After the decline of remote work opportunities over the last two years, I decided to pivot toward Technical Art, since problem-solving is what I truly enjoy. And that’s where I am now.
 
 <!--
 **generalred88/generalred88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

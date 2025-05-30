@@ -7,7 +7,7 @@ I started as a 3D modeler and Animator at Eipix Entertainment, a company known f
 
 Wanting to transition into VFX, I then joined Bunker VFX as an Associate Producer. This marked a major crossroads in my career, as I stayed on the production track for the next four years. My biggest achievements during this time included contracts with Warner Bros. and Activision, where I worked as a Project Manager.
 
-After the decline of remote work opportunities over the last two years, I decided to pivot toward Technical Art, since problem-solving is what I truly enjoy. And that’s where I am now.
+After the decline of remote work opportunities over the last two years, I decided to pivot toward Technical Art, since problem-solving is what I truly enjoy. And that’s where I am now...
 
 <!--
 **generalred88/generalred88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
